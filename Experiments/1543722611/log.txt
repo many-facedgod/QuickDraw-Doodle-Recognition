@@ -1,0 +1,289 @@
+RUN ID: 1543722611
+RUN DESCRIPTION: Ensemble train both, lr=1e-4
+--------------------------------------------------------
+Loading data....
+Loading model checkpoint.1.2000.pt from run_id 1543617582...
+Loaded.
+--------------------------------------------------------
+Loading model checkpoint.1.2000.pt from run_id 1543697013...
+Loaded.
+--------------------------------------------------------
+Loading model checkpoint.1.1000.pt from run_id 1543720838...
+Loaded.
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8681666666666666
+--------------------------------------------------------
+Iteration 1/2:
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.1000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87065
+--------------------------------------------------------
+Mean training loss: 0.7310415292978287
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.2000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8715666666666668
+--------------------------------------------------------
+Mean training loss: 0.7243701584041119
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.3000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8710166666666668
+--------------------------------------------------------
+Mean training loss: 0.7241848627328873
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.4000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.872
+--------------------------------------------------------
+Mean training loss: 0.7154490520358086
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.5000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8736833333333333
+--------------------------------------------------------
+Mean training loss: 0.7129012372195721
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.6000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87385
+--------------------------------------------------------
+Mean training loss: 0.7082566170692444
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.7000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8739333333333333
+--------------------------------------------------------
+Mean training loss: 0.713269572108984
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.8000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8727
+--------------------------------------------------------
+Mean training loss: 0.7010438680946827
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.9000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8742666666666666
+--------------------------------------------------------
+Mean training loss: 0.705645743817091
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.10000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87435
+--------------------------------------------------------
+Mean training loss: 0.7058531174063682
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.11000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8747166666666668
+--------------------------------------------------------
+Mean training loss: 0.7081837730109691
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.12000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8768166666666668
+--------------------------------------------------------
+Mean training loss: 0.704287431538105
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.13000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8757333333333334
+--------------------------------------------------------
+Mean training loss: 0.7011356132924557
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.14000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8751333333333334
+--------------------------------------------------------
+Mean training loss: 0.703186572611332
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.15000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8760166666666666
+--------------------------------------------------------
+Mean training loss: 0.6946471424400806
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.16000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8764833333333334
+--------------------------------------------------------
+Mean training loss: 0.7012476994097233
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.17000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8755166666666666
+--------------------------------------------------------
+Mean training loss: 0.6973682418763637
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.18000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8770333333333332
+--------------------------------------------------------
+Mean training loss: 0.6976843615472317
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.19000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8773
+--------------------------------------------------------
+Mean training loss: 0.694906921684742
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.20000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8766833333333334
+--------------------------------------------------------
+Mean training loss: 0.6935211145877838
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.21000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87745
+--------------------------------------------------------
+Mean training loss: 0.6923642519116402
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.22000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8777333333333333
+--------------------------------------------------------
+Mean training loss: 0.6965302352011203
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.23000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8774833333333334
+--------------------------------------------------------
+Mean training loss: 0.6831220791041851
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.24000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8772833333333332
+--------------------------------------------------------
+Mean training loss: 0.6910139372944832
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.25000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8768333333333334
+--------------------------------------------------------
+Mean training loss: 0.689303896188736
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.26000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8769166666666666
+--------------------------------------------------------
+Mean training loss: 0.6974676694869996
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.27000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8770333333333334
+--------------------------------------------------------
+Mean training loss: 0.6937919111251831
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.28000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8764833333333334
+--------------------------------------------------------
+Mean training loss: 0.6958750793933869
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.29000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8781666666666668
+--------------------------------------------------------
+Mean training loss: 0.6906332287192345
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.30000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87855
+--------------------------------------------------------
+Mean training loss: 0.6777426026761532
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.31000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87855
+--------------------------------------------------------
+Mean training loss: 0.692197988718748
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.32000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8779666666666668
+--------------------------------------------------------
+Mean training loss: 0.685663090467453
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.33000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87785
+--------------------------------------------------------
+Mean training loss: 0.687894980341196
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.34000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.87855
+--------------------------------------------------------
+Mean training loss: 0.6897793953418732
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.35000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8792666666666668
+--------------------------------------------------------
+Mean training loss: 0.6936409354507923
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.36000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8784833333333334
+--------------------------------------------------------
+Mean training loss: 0.6774463051259517
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.37000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8799166666666666
+--------------------------------------------------------
+Mean training loss: 0.689986037582159
+Saving model...
+Saved to ../Experiments/1543722611/models/checkpoint.1.38000.pt
+--------------------------------------------------------
+Calculating MAP@3 for the validation dataset...
+Validation MAP@3: 0.8801166666666667
+--------------------------------------------------------
+Mean training loss: 0.6929990582764148
+Mean loss for the iteration: 0.6749208988574555
+--------------------------------------------------------
+Generating submissions....
+Written to file ../Experiments/1543722611/submissions/submission.1.csv
+--------------------------------------------------------
+Iteration 2/2:
